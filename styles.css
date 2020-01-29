@@ -15,8 +15,6 @@ body {
     
 }
 
-
-
 .jumbotron {
     background: transparent;
     background-image: url(header-cloud.jpg);
@@ -44,6 +42,6 @@ span {
     font-style: italic;
 }
  
-#mainFooter :hover {
-    opacity: 100%;
+#mainFooter:hover {
+    color: lightblue;
 }
