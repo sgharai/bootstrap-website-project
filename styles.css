@@ -1,0 +1,45 @@
+body {
+  background-image: linear-gradient(to top right, rgb(134, 213, 233), white);
+}
+
+#mainFooter {
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white ; opacity: 0.6;
+    
+}
+
+
+
+.jumbotron {
+    background: transparent;
+    background-image: url(header-cloud.jpg);
+}
+
+.card-deck {
+    margin-top: 50px; 
+    /* margin: 20px 20px; */
+}
+
+i {
+    margin-top: 10px;
+}
+
+.col {
+    margin: 20px 20px;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy', sans-serif;
+    font-size: 40px !important;
+}
+
+.mb-0 {
+    font-style: italic;
+}
